@@ -1,0 +1,7 @@
+[package]
+name = "nostalgia-cli"
+version.workspace = true
+edition.workspace = true
+
+[dependencies]
+nost-comrak = { path = "../nostalgia-core/nost-comrak" }
